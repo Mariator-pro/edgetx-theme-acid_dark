@@ -1,0 +1,18 @@
+---
+summary:
+  name: Acid Dark
+  author: Mariator-pro
+  info: A dark theme with an acid lime accent (0x7CD230)
+
+colors:
+  PRIMARY1:   0xF0F0F0
+  PRIMARY2:   0x121412
+  PRIMARY3:   0x969696
+  SECONDARY1: 0xF0F0F0
+  SECONDARY2: 0x0C0E0C
+  SECONDARY3: 0x545854
+  FOCUS:      0x7CD230
+  EDIT:       0x7CD230
+  ACTIVE:     0x37474F
+  WARNING:    0xFFB400
+  DISABLED:   0x5A5A5A
