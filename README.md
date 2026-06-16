@@ -21,8 +21,8 @@ Each variable maps to specific UI elements in EdgeTX (per the official
 | SECONDARY3 | `0x545854` | ![545854](docs/swatches/545854.png) | Main screen background and popup background. |
 | FOCUS | `0x7CD230` | ![7CD230](docs/swatches/7CD230.png) | ETX logo background; selected top-bar icon background; focused label and editable-field backgrounds; trim and slider knobs. |
 | EDIT | `0x7CD230` | ![7CD230](docs/swatches/7CD230.png) | Editable-field background while a value is being edited. |
-| ACTIVE | `0x37474F` | ![37474F](docs/swatches/37474F.png) | Active button background and editable-field background for an active variable (e.g. switches on, checked boxes). |
-| WARNING | `0xFFB400` | ![FFB400](docs/swatches/FFB400.png) | Warning label text. |
+| ACTIVE | `0xC85000` | ![C85000](docs/swatches/C85000.png) | Active button background and editable-field background for an active variable (e.g. switches on, checked boxes). |
+| WARNING | `0xE00000` | ![E00000](docs/swatches/E00000.png) | Warning label text. |
 | DISABLED | `0x5A5A5A` | ![5A5A5A](docs/swatches/5A5A5A.png) | Disabled UI elements throughout the interface. |
 
 ## Install
